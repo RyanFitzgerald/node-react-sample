@@ -1,0 +1,19 @@
+{
+    "contests": [
+        {
+            "id": 1,
+            "categoryName": "Business/Company",
+            "contentName": "Cognitive Building Bricks"
+        },
+        {
+            "id": 2,
+            "categoryName": "Magazine/Newsletter",
+            "contentName": "Educating People About Sports"
+        },
+        {
+            "id": 3,
+            "categoryName": "Website",
+            "contentName": "Free Programming Books"
+        }
+    ]
+}
